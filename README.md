@@ -10,7 +10,7 @@ Active on HackTheBox, building tools, and grinding toward a career in offensive 
 ## 🎯 What I Do
 
 - **Penetration Testing** — Web apps, infrastructure, database attacks (Oracle/MSSQL), CVE exploitation
-- **Tool Development** — Custom Metasploit modules in Ruby, Python automation scripts
+- **Tool Development** — Python automation scripts
 - **CTF & Labs** — Active on HackTheBox · Previously top 800 globally on TryHackMe (2021)
 - **Embedded Systems** — ESP32 IoT projects with security applications in mind
 
