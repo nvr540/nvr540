@@ -29,7 +29,6 @@ Active on HackTheBox, building tools, and grinding toward a career in offensive 
 ---
 
 ## 📌 Featured Projects
-
 ### 📝 [`htb-writeups`](https://github.com/nvr540)
 Step-by-step breakdowns of HackTheBox machines I've pwned — covering recon, exploitation, and post-exploitation methodology.
 
